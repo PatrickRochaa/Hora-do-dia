@@ -4,6 +4,7 @@
 fiz algumas mudanças que não existem no exercício:
  •	Fiz com que o JavaScript obtivesse a hora atual do navegador que está sendo aberto
  •	Adicionei um pouco de responsividade
+ 
  •	Adicionei mudança da imagem conforme o horário do dia
 
 
